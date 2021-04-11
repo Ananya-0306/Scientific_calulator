@@ -1,5 +1,3 @@
-# Scientific_calulator
- A beautiful, free online scientific calculator with advanced features for evaluating percentages, fractions, exponential functions, logarithms, trigonometry, statistics ...
 # Scientific-Calculator-Android-App
 
 An andoid application which performs the scientific calculator's functionalities. It is built on android studio so you can run this project by installing apk file on any android mobile phone of API level between 22 and 29. You can also work on this project using android studios.
