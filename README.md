@@ -41,5 +41,7 @@ An andoid application which performs the scientific calculator's functionalities
     * Java
 - - - -
 
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring this repository!</h3>
+
 * License -
-    * This project is licensed under the Eclipse Public License.
+    * This project is licensed under the MIT License.
